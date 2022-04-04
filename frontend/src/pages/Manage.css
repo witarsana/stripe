@@ -1,0 +1,8 @@
+.manage {
+  width: 500px;
+  margin: 0 auto;
+}
+.manage form {
+  display: flex;
+  flex-direction: column;
+}

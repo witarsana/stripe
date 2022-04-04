@@ -1,0 +1,11 @@
+.Cancel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.tableCancel {
+  max-width: 80%;
+  margin-top: 20px;
+}
